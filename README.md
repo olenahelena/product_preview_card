@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/olenahelena/product_preview_card)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: ([https://your-live-site-url.com](https://ornate-palmier-59fd57.netlify.app/))
 
 ### Built with
 
